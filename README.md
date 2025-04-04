@@ -38,15 +38,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,cs,firebase" />
 </p>
-
-<h4 style="font-family: Ubuntu, sans-serif;">🗄️ Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
 <h4 style="font-family: Ubuntu, sans-serif;">📈 Data Science & Machine Learning</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,selenium,sklearn" />
+</p>
+<h4 style="font-family: Ubuntu, sans-serif;">🗄️ Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
 <h4 style="font-family: Ubuntu, sans-serif;">🛠️ Tools & Miscellaneous</h4>
