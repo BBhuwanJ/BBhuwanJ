@@ -69,6 +69,6 @@
 
 <h3 style="font-family: Ubuntu, sans-serif;">✨ What’s New?</h3>
 <p style="font-family: Ubuntu, sans-serif;">
-🌍 Currently working on my Brain 🧠, Promise!!<br/>
-🎯 Goal: Not To Be Lazy
+🌍 <strong>Currently working on my Brain 🧠, Promise!!<br/></strong>
+🎯 <strong>Goal: Not To Be Lazy</strong>
 </p>
