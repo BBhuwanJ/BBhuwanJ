@@ -36,7 +36,7 @@
 
 <h4 style="font-family: Ubuntu, sans-serif;">⚙️ Backend Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,cs,firebase" />
 </p>
 
 <h4 style="font-family: Ubuntu, sans-serif;">🗄️ Databases</h4>
@@ -46,7 +46,7 @@
 
 <h4 style="font-family: Ubuntu, sans-serif;">📈 Data Science & Machine Learning</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,selenium,pandas,numpy,scikit-learn,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,selenium,sklearn" />
 </p>
 
 <h4 style="font-family: Ubuntu, sans-serif;">🛠️ Tools & Miscellaneous</h4>
