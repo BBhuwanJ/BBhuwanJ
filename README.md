@@ -36,7 +36,7 @@
 
 <h4 style="font-family: Ubuntu, sans-serif;">⚙️ Backend Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,csharp,python,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,firebase" />
 </p>
 
 <h4 style="font-family: Ubuntu, sans-serif;">🗄️ Databases</h4>
