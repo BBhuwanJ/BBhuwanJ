@@ -21,7 +21,7 @@
 </p>
 
 <p style="font-family: Ubuntu, sans-serif;">
-📬 <strong>Email:</strong> <a href="mailto:work.bbhuwan@gmail.com">work.bbhuwan@gmail.com</a><br/>
+📬 <strong>Website:</strong> www.bhuwanprasadjoshi.com.np<br/>
 😄 <strong>Fun Fact:</strong> People say I’m funny, but I’m pretty sure I’m hilarious 😎  
 </p>
 
