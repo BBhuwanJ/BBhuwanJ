@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: Ubuntu, sans-serif;">Hey There 👋, I'm <span style="color:#FFA500; font-weight: bold;">BBhuwan Joshi</span></h1>
-<h3 align="center" style="font-family: Ubuntu, sans-serif;">💻 A Passionate Full-Stack Developer from Nepal 🇳🇵</h3>
+<h3 align="center" style="font-family: Ubuntu, sans-serif;">💻 Full-Stack Developer from Nepal 🇳🇵</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 15px;" />
