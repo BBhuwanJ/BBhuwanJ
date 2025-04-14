@@ -12,14 +12,8 @@
   <a href="https://bhuwanprasadjoshi.com.np" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=VJz2Ob51dvZJ&format=png&color=000000" width="40" style="margin: 0 10px;" />
   </a>
-  <a href="https://twitter.com/partime_thinker" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" style="margin: 0 10px;" />
-  </a>
   <a href="https://linkedin.com/in/bbhuwanjoshi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin: 0 10px;" />
-  </a>
-  <a href="https://instagram.com/erraz07" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" style="margin: 0 10px;" />
   </a>
   
 </p>
